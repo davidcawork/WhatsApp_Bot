@@ -24,5 +24,5 @@ Example:
 
 ## Demo
 
-(Demo of th WhatsApp Bot)[https://www.youtube.com/watch?v=zqS5MX4q48Q]
+[Demo of th WhatsApp Bot](https://www.youtube.com/watch?v=zqS5MX4q48Q)
 
